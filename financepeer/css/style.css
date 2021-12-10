@@ -1,0 +1,68 @@
+.main-div{
+    margin: 100px auto;
+    padding: 20PX;
+    border: 1px solid #bbbbbb;
+    border-radius: 10px;
+}
+a{
+    text-decoration: none !important;
+    color: #fff;
+}
+a:hover{
+    color: #ff8b68;
+}
+.post_btn_card-header {
+    background-color: #f5f6f7;
+    border-bottom: 1px solid #dddfe2;
+    border-radius: 2px 2px 0 0;
+    font-weight: bold;
+}
+.post_btn {
+    margin-top: 40px;
+    width: 100%;
+    border-radius: 0.25rem;
+    background-color: #4267b2;
+    color: #fff;
+}
+.table-heading{
+    background-color: #dddddd;
+    border-bottom: 1px solid #dddfe2;
+}
+.table-heading-id{
+    width: 40px;
+    padding: 10px;
+}
+.table-heading-uid{
+    width: 80px;
+    border-left: 1px solid #dddfe2;
+    padding: 10px;
+}
+.table-heading-title{
+    width: auto;
+    border-left: 1px solid #dddfe2;
+    padding: 10px;
+}
+.table-headin-body{
+    width: auto;
+    border-left: 1px solid #dddfe2;
+    padding: 10px;
+}
+.table-data{
+    background-color: #fff;
+    border-bottom: 1px solid #dddfe2;
+}
+.table-data1{
+    padding: 10px;
+}
+.table-data2{
+    border-left: 1px solid #dddfe2;
+    padding: 10px;
+}
+.table-data3{
+    border-left: 1px solid #dddfe2;
+    padding: 10px;
+}
+.table-data4{
+    border-left: 1px solid #dddfe2;
+    padding: 10px;
+}
