@@ -9,3 +9,8 @@ This assignment is made using HTML5, CSS3, PHP, MySQL, JSON. Database file is in
 Feel free to get in touch for further queries.
 email - harry94106@gmail.com
 Phone - 8218610553
+# credentials for testing :
+
+username - Harry
+email - harry94106@gmail.com
+password - 143harry
